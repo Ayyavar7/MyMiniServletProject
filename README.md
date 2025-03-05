@@ -1,9 +1,6 @@
 # MyMiniServletProject
 
 ## Description
-A brief description of your project. Explain what it does, its purpose, and any key features.
-
-Example:
 This is a Mini Servlet Project that demonstrates basic web application functionality using Java Servlets and JSP. It includes features like user authentication, form handling, and dynamic content rendering.
 
 ## Technologies Used
